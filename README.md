@@ -1,5 +1,5 @@
 # Bitcoin-Bear-Put-Spread-Payoff
-In this notebook, we will build the payoff graph for long 16700 strike put and short 16300 strike put on Bitcoin. A bear put spread strategy is built by going long on put option with strike price X2 and simultaneously selling a put option with a lower strike price X1. options with same underlying and maturity. The aim of this strategy is to benefit from small negative movements in the underlying asset. It limits the upside potential as well as the downside risk.
+In this notebook, we will build the payoff graph for long 16700 strike put and short 16300 strike put on Bitcoin. A bear put spread strategy is built by going long on put option with strike price X2 and simultaneously selling a put option with a lower strike price X1. Options with same underlying and maturity. The aim of this strategy is to benefit from small negative movements in the underlying asset. It limits the upside potential as well as the downside risk.
 
 ### 1. Import libraries
 First, we will import the necessary libraries.
